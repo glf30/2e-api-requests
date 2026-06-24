@@ -14,8 +14,6 @@
 
 The goal of this lesson is to get used to using asynchronous functions, and using them to make requests to an external API. When building out a Full-Stack web application, you will be setting up asynchronous requests to your own API (back-end) from the front-end of the application. You will also be performing asynchronous requests to external API's depending on the purpose of your application. This lesson is meant to give you a fundamental understanding on how to properly make these requests, and these skills are to be used in different contexts (in the same way that `if` statements and `for` loops are fundamental).
 
-The final-files and starter-files have been separated into their own folders. Each will contain at least 1 file per topic in this lesson.
-
 ## Try-Catch blocks
 
 A Try-Catch block is a block of code that makes an attempt to run code, and only executes it if it works. If it doesn't work, an alternate code block will execute instead. Here's what that might look like:
